@@ -1,0 +1,3 @@
+# Application Listeners，引入自定义的listener
+org.springframework.context.ApplicationListener=\
+com.on.listener.MyListener
